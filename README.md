@@ -25,6 +25,10 @@ ssh-keygen -t rsa -C "your_email@youremail.com"# Creates a new ssh key using the
 Step 4: Add your SSH key to GitHub
 copy ~/.ssh/id_rsa.pub#   to  https://github.com/settings/ssh
 
+
+Step 5 : check:
+
+
 ssh -T git@github.com# Attempts to ssh to github
 
 You may see this warning:
