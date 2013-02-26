@@ -8,6 +8,8 @@ git clone https://github.com/ocde/ego.git
 
 
 git clone git@github.com:ocde/ego.git
+
+
 need config following
 
 ~~~~~~~~~~~~~~
