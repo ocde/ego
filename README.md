@@ -2,6 +2,9 @@ ego
 ===
 about junqing.
 
+ref :http://www.cnblogs.com/fnng/archive/2012/01/07/2315685.html
+
+
 克隆版本库
 
 git clone https://github.com/ocde/ego.git
