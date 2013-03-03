@@ -1,0 +1,10 @@
+#+INFOJS_OPT: view:info toc:nil   mouse:underline buttons:1 path:./inc/org-info.js
+#+STYLE: <link rel="stylesheet" type="text/css" href="./inc/css.css" /> 
+#+STYLE: <link rel="icon" href="http://orgmode.org//org-mode-unicorn.ico" type="image/ico" />
+#+OPTIONS: H:4  num:nil  toc:t  \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:t skip:nil d:(HIDE) tags:not-in-toc creator:nil 
+#+TAGS: Modeling(m) Tutorials(t) Benchmarking(b) Hack(h) FAQ(q) Money(y) project(p)
+#+AUTHOR:G$D
+#+TITLE:营销
+
+* 营销计划
+bb
