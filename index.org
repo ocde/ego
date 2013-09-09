@@ -4,7 +4,6 @@
 #+OPTIONS: H:4  num:nil  toc:t  \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:t skip:nil d:(HIDE) tags:not-in-toc creator:nil 
 #+TAGS: Modeling(m) Tutorials(t) Benchmarking(b) Hack(h) FAQ(q) Money(y) project(p)
 #+AUTHOR:G$D
-#+TITLE:Ӫ��
-./read.html
-* Ӫ���ƻ�
-bb
+#+TITLE: Hackair.com 
+
+智能互联，创造未来。
