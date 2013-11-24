@@ -1,0 +1,17 @@
+#+INFOJS_OPT: view:info toc:nil   mouse:underline buttons:1 path:./inc/org-info.js
+#+STYLE: <link rel="stylesheet" type="text/css" href="./inc/css.css" /> 
+#+STYLE: <link rel="icon" href="http://orgmode.org//org-mode-unicorn.ico" type="image/ico" />
+#+OPTIONS: H:4  num:nil  toc:t  \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:t skip:nil d:(HIDE) tags:not-in-toc creator:nil 
+#+TAGS: Modeling(m) Tutorials(t) Benchmarking(b) Hack(h) FAQ(q) Money(y) project(p)
+#+LANGUAGE:en
+#+AUTHOR:ocde
+#+TITLE: Hackair.com 
+
+* 智能互联，创造未来.
+
+** Hackair终端
+** HackairApps
+** Hackair畅想
+*** 想给父亲买个健康监测仪
+想给父亲买个记步器，能定期自动将汇总数据发布到网上可以查看。如何能将饮食，体重，心情，等信息都能够记录并发布到网上进行查
+看？ 这些基础数据将是老年人市场的制高点。
