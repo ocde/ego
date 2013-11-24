@@ -1,5 +1,4 @@
 #+STYLE: <link rel="stylesheet" type="text/css" href="./inc/css.css" /> 
-#+AUTHOR:ocde
 #+TITLE: 本土PE的10条准则
 
 #+BEGIN_HTML
