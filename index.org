@@ -6,7 +6,6 @@
 #+AUTHOR:ocde
 #+TITLE: 本土PE的10条准则
 
-* 陈玮：本土PE的10条准则
 #+BEGIN_VERSE
 PE投资始终是有技巧的，而经验的积累和感悟在投资中也非常重要。
 
