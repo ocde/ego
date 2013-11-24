@@ -183,6 +183,9 @@ PE是个重积累的行业，专家型GP是实战中练出来的，投资多了�
 #+END_VERSE
 
 #+BEGIN_HTML
+
+<!--#include file="footer.htm" -->
+
 <!--http://changyan.sohu.com/-->
 <div id="SOHUCS"></div>
 <script>
@@ -200,5 +203,4 @@ PE是个重积累的行业，专家型GP是实战中练出来的，投资多了�
   })()
 </script>  
 
-<!--#include file="footer.htm" -->
 #+END_HTML
