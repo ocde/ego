@@ -1,6 +1,10 @@
 #+AUTHOR:ocde
 #+TITLE: 本土PE的10条准则
 
+#+BEGIN_HTML
+<!--#include file="header.htm" -->
+#+END_HTML
+
 #+BEGIN_VERSE
 PE投资始终是有技巧的，而经验的积累和感悟在投资中也非常重要。
 
@@ -196,5 +200,5 @@ PE是个重积累的行业，专家型GP是实战中练出来的，投资多了�
   })()
 </script>  
 
-
+<!--#include file="footer.htm" -->
 #+END_HTML
